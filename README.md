@@ -3,7 +3,7 @@ En este repo se encuentra la 2ª evaluación del sprint 2 del bootcamp de DA pro
 
 El repositório contiene dos carpetas:
 
-- Datos, que contiene:
+- Datos que contiene:
 
     - un fichero con el script de creación de base de datos y de tablas en SQL;
     - un fichero en csv del dataframe unificado derivado de los ejercícios 1 al 7 de la evaluación.
